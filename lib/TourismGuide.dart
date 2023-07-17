@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_tourism/new00.dart';
 import 'package:flutter_application_tourism/new11.dart';
- import 'package:flutter_application_tourism/new22.dart';
+import 'package:flutter_application_tourism/new22.dart';
 import 'package:flutter_application_tourism/newsicon1.dart';
 import 'package:flutter_application_tourism/newsicon2.dart';
 import 'package:flutter_application_tourism/newbutton.dart';
